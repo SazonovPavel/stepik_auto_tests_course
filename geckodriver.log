@@ -1,0 +1,38 @@
+1635872900387	geckodriver	INFO	Listening on 127.0.0.1:57962
+1635872903482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DEV\\AppData\\Local\\Temp\\rust_mozprofileTz8meP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1635872906306	Marionette	INFO	Listening on port 57970
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1635872906687	Marionette	WARN	TLS certificate errors will be ignored for this session
+1635872906698	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1635551519, line 6074: unreachable code after return statement
+1635873347177	Marionette	INFO	Stopped listening on port 57970
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635873868900	geckodriver	INFO	Listening on 127.0.0.1:49267
+1635873872010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DEV\\AppData\\Local\\Temp\\rust_mozprofiletc5AqY"
+1635873931519	geckodriver	INFO	Listening on 127.0.0.1:49306
+1635873934648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DEV\\AppData\\Local\\Temp\\rust_mozprofileq0oqBC"
+1635873935067	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DEV\\AppData\\Local\\Temp\\rust_mozprofileq0oqBC\\search.json.mozlz4", (void 0)))
+1635873937135	Marionette	INFO	Listening on port 49314
+1635873937378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+1635873939130	Marionette	INFO	Stopped listening on port 49314
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635873954694	geckodriver	INFO	Listening on 127.0.0.1:49380
+1635873957826	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DEV\\AppData\\Local\\Temp\\rust_mozprofileUqcNxJ"
+1635873958245	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DEV\\AppData\\Local\\Temp\\rust_mozprofileUqcNxJ\\search.json.mozlz4", (void 0)))
+1635873960281	Marionette	INFO	Listening on port 49388
+1635873960565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+1635873962442	Marionette	INFO	Stopped listening on port 49388
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
